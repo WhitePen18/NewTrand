@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "NewTrandMobile",
+    "slug": "newtrand-mobile",
+    "version": "0.1.0",
+    "sdkVersion": "54.0.0",
+    "platforms": ["ios", "android", "web"],
+    "orientation": "portrait",
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"],
+    "description": "React Native Expo app for NewTrand mobile trend insights"
+  }
+}
